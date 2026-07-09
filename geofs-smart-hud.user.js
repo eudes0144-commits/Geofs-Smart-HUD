@@ -9,8 +9,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-idle
-// @updateURL    https://github.com/eudes0144-commits/Geofs-Smart-HUD
-// @downloadURL  https://github.com/eudes0144-commits/Geofs-Smart-HUD
+// @updateURL    https://raw.githubusercontent.com/eudes0144-commits/Geofs-Smart-HUD/main/geofs-smart-hud.user.js
+// @downloadURL  https://raw.githubusercontent.com/eudes0144-commits/Geofs-Smart-HUD/main/geofs-smart-hud.user.js
 // ==/UserScript==
 
 (function () {
