@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         GeoFS Smart HUD
-// @namespace    https://github.com/eudes0144-commits
+// @namespace    https://github.com/machpoint82
 // @version      1.0.0
 // @description  Professional glass-cockpit style HUD for GeoFS — ground speed, IAS, TAS, altitude, vertical speed. Toggle with Shift+X.
 // @author       machpoint82
@@ -10,8 +10,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/eudes0144-commits/Geofs-Smart-HUD/main/geofs-smart-hud.user.js
-// @downloadURL  https://raw.githubusercontent.com/eudes0144-commits/Geofs-Smart-HUD/main/geofs-smart-hud.user.js
+// @updateURL    https://raw.githubusercontent.com/machpoint82/Geofs-Smart-HUD/main/geofs-smart-hud.user.js
+// @downloadURL  https://raw.githubusercontent.com/machpoint82/Geofs-Smart-HUD/main/geofs-smart-hud.user.js
 // ==/UserScript==
 
 (function () {
